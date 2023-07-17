@@ -7,3 +7,21 @@ Both datasets have informations concerning songs uploaded on the platform Spotif
 - The second dataset uses a scale from 0 to 100 to convey popularity.
 
 In the Notebook, we'll use each dataset to work with regression and classification models to try and predict songs' popularity.
+
+## Summary
+
+**Regression:**
+
+- Data analysis & cleanup
+- Label Encoder
+- Standard Scaler
+- Finding the best Regressor
+- Grid Search on Random Forest models
+
+**Classification:**
+
+- Data analysis & cleanup
+- Label Encoder
+- Standard Scaler
+- Finding the best Classifier
+- Logistic Regression model
