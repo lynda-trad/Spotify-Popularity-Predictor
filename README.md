@@ -25,3 +25,9 @@ In the Notebook, we'll use each dataset to work with regression and classificati
 - Standard Scaler
 - Finding the best Classifier
 - Logistic Regression model
+
+___
+
+The **data** used in this notebook was downloaded here :
+- classification : https://www.kaggle.com/datasets/akiboy96/spotify-dataset
+- regression : https://www.kaggle.com/datasets/faisalsalar/spotify-songs-of-pop-and-its-sub-genres
